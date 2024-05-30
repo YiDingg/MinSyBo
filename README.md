@@ -4,7 +4,7 @@
 
 | 相关链接 |
 | :------: |
-| 更新日志、原理图下载、PCB下载地址：[MinSyBo (Minimum System Board of STM32F103C8T6)](https://www.writebug.com/code/90657564-1c05-11ef-a772-0242c0a81018) |
+| 原理图和PCB下载地址：[MinSyBo (Minimum System Board of STM32F103C8T6)](https://www.writebug.com/code/90657564-1c05-11ef-a772-0242c0a81018) |
 | 最终效果、设计思路、具体细节等详见文章：[📚 STM32F103C8T6最小系统板设计](https://www.writebug.com/article/17d10f98-1bfe-11ef-a772-0242c0a81018) |
 
 ## 2.更新日志
