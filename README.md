@@ -1,4 +1,4 @@
-## MinSyBo (Minimum System Board of STM32F103C8T6)
+# MinSyBo (Minimum System Board of STM32F103C8T6)
 ## 1. 项目说明
 这是一个STM32F103C8T6最小系统板，原理图和PCB使用立创EDA专业版进行设计，相关文件全部开源。
 
