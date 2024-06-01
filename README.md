@@ -13,4 +13,10 @@
 | 2024.5.18 | Version 1.0 | 最小系统板初版 |
 |2024.5.25|Version 1.1|优化布线、布局，优化丝印美观性|
 
+## 3.预览图
+产品图片：
+
+| 正面 | 背面 |
+| :------: | :------: |
+|![image](https://gitee.com/dy130810/images_house/raw/master/pic/20240601/152422705-1.png) | ![image](https://gitee.com/dy130810/images_house/raw/master/pic/20240601/152449634-1.png)|
 
